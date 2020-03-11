@@ -1,4 +1,4 @@
-package isp.lab1;
+package isp.lab1.ISP;
 
 
 import java.util.logging.Logger;
